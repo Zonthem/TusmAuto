@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@inquirer/input": "^0.0.20-alpha.0",
+    "inquirer": "^8.2.4",
+    "jsdom": "^19.0.0",
+    "node-fetch": "^3.2.4"
+  }
+}
